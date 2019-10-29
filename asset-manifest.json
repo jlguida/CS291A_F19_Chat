@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CS291A_F19_Chat/static/css/main.00dd0acf.chunk.css",
+    "main.js": "/CS291A_F19_Chat/static/js/main.23b96d0e.chunk.js",
+    "main.js.map": "/CS291A_F19_Chat/static/js/main.23b96d0e.chunk.js.map",
+    "runtime-main.js": "/CS291A_F19_Chat/static/js/runtime-main.bb5923b2.js",
+    "runtime-main.js.map": "/CS291A_F19_Chat/static/js/runtime-main.bb5923b2.js.map",
+    "static/css/2.0624914a.chunk.css": "/CS291A_F19_Chat/static/css/2.0624914a.chunk.css",
+    "static/js/2.c5c0716d.chunk.js": "/CS291A_F19_Chat/static/js/2.c5c0716d.chunk.js",
+    "static/js/2.c5c0716d.chunk.js.map": "/CS291A_F19_Chat/static/js/2.c5c0716d.chunk.js.map",
+    "index.html": "/CS291A_F19_Chat/index.html",
+    "precache-manifest.cd9da6930a5be49a9ac13ab691fe9393.js": "/CS291A_F19_Chat/precache-manifest.cd9da6930a5be49a9ac13ab691fe9393.js",
+    "service-worker.js": "/CS291A_F19_Chat/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/CS291A_F19_Chat/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.00dd0acf.chunk.css.map": "/CS291A_F19_Chat/static/css/main.00dd0acf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb5923b2.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.c5c0716d.chunk.js",
+    "static/css/main.00dd0acf.chunk.css",
+    "static/js/main.23b96d0e.chunk.js"
+  ]
+}
